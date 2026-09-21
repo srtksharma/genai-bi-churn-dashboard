@@ -3,7 +3,7 @@
 An interactive Streamlit dashboard for customer churn analytics on the IBM Telco dataset (7,043 customers), built for the IBM SkillsBuild Data Analytics with AI Internship 2026.
 
 ## Live demo
-Deployed on Streamlit Community Cloud (link added after deploy).
+https://genai-bi-churn-dashboard-xfxzsxy9pnqp8b8hu6ioau.streamlit.app
 
 ## Pages
 - **Overview** — KPIs: churn rate, customers, revenue at risk
