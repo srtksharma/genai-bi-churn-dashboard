@@ -1,6 +1,6 @@
 # GenAI BI Dashboard — Customer Churn Intelligence
 
-An interactive Streamlit dashboard for customer churn analytics on the IBM Telco dataset (7,043 customers), built for the IBM SkillsBuild Data Analytics with AI Internship 2026.
+An interactive Streamlit dashboard for customer churn analytics on the IBM Telco dataset (7,043 customers).
 
 ## Live demo
 https://genai-bi-churn-dashboard-xfxzsxy9pnqp8b8hu6ioau.streamlit.app
