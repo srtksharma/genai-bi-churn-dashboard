@@ -51,7 +51,7 @@ model = load_model()
 st.sidebar.title("Navigation")
 page = st.sidebar.radio("Go to", ["Overview", "Churn Analytics", "Risk Watchlist", "AI Assistant"])
 st.sidebar.markdown("---")
-st.sidebar.caption("GenAI-Powered BI Dashboard\nIBM SkillsBuild Internship 2026")
+st.sidebar.caption("GenAI-Powered BI Dashboard\nCustomer Churn Intelligence")
 
 # ---------------------------------------------------------------- Overview
 if page == "Overview":
